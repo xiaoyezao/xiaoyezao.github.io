@@ -9,3 +9,4 @@ redirect_from:
 
 Coming soon!
 
+![My profile photo](/images/profile.png)
