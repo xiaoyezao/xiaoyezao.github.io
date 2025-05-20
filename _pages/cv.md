@@ -11,26 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Plant Phylogenetics and Evolution, University of Chinese Academy of Sciences, 2018
+* B.S. in Biology, Henan University of Science and Technology, 2011
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2025 - : Marie Curie Fellow
+  * Cambridge University
+  * Project: High-altitude plant adaptation in Himalayas
+  * Supervisor: Samuel Brockington
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar. 2022 - April 2025: Postdoc researcher
+  * Wageningen University and Research
+  * Project: Asteraceae phylogenomics and synteny
+  * Supervisor: Professor Eric Schranz
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan. 2018 - Feb. 2022: Postdoc researcher
+  * Wuhan Botanic Garden, Chinese Academy of Sciences
+  * Project: Evolution of plant specialized fatty acids
+  * Supervisor: Professor Shiyou Lv
   
 Skills
 ======
