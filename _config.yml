@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Tao Feng personal homepage"
+title                    : "Tao Feng"
 title_separator          : "-"
 name                     : &name "Tao Feng"
 description              : &description "personal description"
